@@ -1,0 +1,6 @@
+[submodule "driver-app"]
+	path = driver-app
+	url = https://github.com/[your-org]/driver-app.git
+[submodule "passenger-app"]
+	path = passenger-app
+	url = https://github.com/[your-org]/passenger-app.git
